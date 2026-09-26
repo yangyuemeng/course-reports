@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>杨玥萌 - 课程设计报告合集</title>
+    <style>
+        body { font-family: "PingFang SC", "Microsoft YaHei", sans-serif; background: #f7f8fa; color: #333; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; }
+        .container { background: #fff; padding: 50px 60px; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.06); max-width: 500px; width: 100%; }
+        h1 { font-size: 22px; margin-bottom: 8px; color: #18191C; }
+        .subtitle { color: #85888E; font-size: 14px; margin-bottom: 30px; }
+        ul { list-style: none; padding: 0; }
+        li { margin-bottom: 12px; }
+        a { display: block; padding: 14px 18px; background: #FFF4F7; color: #FB7299; text-decoration: none; border-radius: 8px; font-weight: 600; border: 1px solid #FCE2EA; transition: all 0.2s; }
+        a:hover { background: #FB7299; color: #fff; transform: translateY(-1px); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>杨玥萌 · 课程设计报告合集</h1>
+        <p class="subtitle">合肥工业大学 · 大数据管理与应用</p>
+        <ul>
+            <!-- 注意：下面的 href="#" 稍后需要替换成真实的 PDF 链接 -->
+            <li><a href="#" target="_blank">📄 Java设计报告-2023211015-杨玥萌.pdf</a></li>
+            <li><a href="#" target="_blank">📄 第四组大数据综合实训报告(1).pdf</a></li>
+            <li><a href="#" target="_blank">📄 人工智能实训报告.pdf</a></li>
+        </ul>
+    </div>
+</body>
+</html>
